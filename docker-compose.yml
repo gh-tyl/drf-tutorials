@@ -4,9 +4,9 @@ services:
   api:
     container_name: drf-tutorial
     build: ./
+    command: python3 manage.py runserver 0.0.0.0:3333
     volumes:
       - ./code:/code
-    # command: python3 manage.py runserver 0.0.0.0:3333
     ports:
       - "3333:3333"
     tty: true
