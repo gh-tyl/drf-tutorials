@@ -1,4 +1,4 @@
-# nuage
+# Tutorial
 
 ## 環境構築
 ### 必須プラットフォーム
@@ -110,4 +110,3 @@ git checkout -b feature/add_dict
 - e,j,sで英語日本語フランス語の表示非表示
 - bでハチドリが飛行
 - rで回転On/OFF、mで明滅ON／OFF
-# drf-tutorials

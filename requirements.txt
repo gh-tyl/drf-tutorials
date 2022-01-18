@@ -1,0 +1,9 @@
+Django
+djangorestframework
+djangorestframework-jwt
+django-environ
+django-storages
+django-cors-headers
+django-import-export
+django-webpack-loader
+psycopg2-binary
